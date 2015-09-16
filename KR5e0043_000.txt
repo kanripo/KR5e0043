@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 仙樂集
+#+DATE: 2015-08-29 02:08:58
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
